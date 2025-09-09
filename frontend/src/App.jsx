@@ -1,4 +1,3 @@
-import Calcularfrete from "./assets/components/Calcularfrete"
 
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
 
   return (
     <>
-      <Calcularfrete/>
+     
     </>
   )
 }
